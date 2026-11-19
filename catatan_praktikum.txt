@@ -1,0 +1,3 @@
+Praktikum Python Dasar - Santrikoding
+Bab #17: File Handling berhasil dijalankan.
+Status: Selesai diuji oleh Wiliandri.
